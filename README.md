@@ -1,3 +1,5 @@
+Blinkit Analysis using PowerBI
+
 This repository contains the Blinkit Dashboard, developed using Microsoft Power BI. The dashboard provides comprehensive insights and visualizations for key metrics and KPIs relevant to Blinkit operations. It includes interactive reports and charts to help analyze performance, identify trends, and make data-driven decisions.
 
 Key Features:
